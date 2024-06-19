@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning low-level-programming
 - 📫 How to reach me @greyfiend13@proton.me
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 greyfiend/greyfiend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
